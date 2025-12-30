@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Action Recorder</title>
+    <link rel="stylesheet" href="popup.css">
+    <!-- Google Fonts for aesthetics -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <header>
+            <div class="logo">
+                <img src="icons/icon48.png" alt="Logo">
+                <h1>Action Recorder</h1>
+            </div>
+            <div class="header-controls">
+                 <!-- Example: Settings icon could go here -->
+            </div>
+        </header>
+
+        <main>
+            <!-- Controls Section -->
+            <div class="controls-panel">
+                <div id="start-record-btn" class="btn primary-btn">
+                    <span class="icon">⏺️</span>
+                    <span>Enregistrer</span>
+                </div>
+                <div id="stop-record-btn" class="btn danger-btn hidden">
+                    <span class="icon">⏹️</span>
+                    <span>Arrêter</span>
+                </div>
+                <div class="counter-badge hidden" id="action-counter">
+                    0 Actions
+                </div>
+            </div>
+
+            <!-- Scenarios List -->
+            <div class="scenarios-container">
+                <div class="section-header">
+                    <h2>Mes Scénarios</h2>
+                    <div class="list-actions">
+                        <button id="import-btn" title="Importer JSON">📥</button>
+                        <button id="export-btn" title="Exporter Tout">📤</button>
+                    </div>
+                </div>
+                
+                <div id="scenario-list" class="scenario-list">
+                    <!-- Populated by JS -->
+                    <div class="empty-state">Aucun scénario enregistré</div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Modals -->
+        <div id="save-modal" class="modal hidden">
+            <div class="modal-content">
+                <h3>Sauvegarder le scénario</h3>
+                <input type="text" id="scenario-name-input" placeholder="Nom du scénario (ex: Login Test)">
+                <div class="modal-actions">
+                    <button id="cancel-save" class="btn secondary">Annuler</button>
+                    <button id="confirm-save" class="btn primary">Sauvegarder</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Edit Modal (Simplified for now, just rename/view actions) -->
+        <div id="edit-modal" class="modal hidden">
+            <div class="modal-content large">
+                <h3>Éditer le scénario</h3>
+                <input type="text" id="edit-name-input" class="full-width">
+                <div class="actions-preview" id="edit-actions-list">
+                    <!-- List of actions details -->
+                </div>
+                <div class="modal-actions">
+                    <button id="close-edit" class="btn secondary">Fermer</button>
+                    <button id="save-edit" class="btn primary">Appliquer</button>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Hidden file input for import -->
+        <input type="file" id="file-input" accept=".json" style="display:none">
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>

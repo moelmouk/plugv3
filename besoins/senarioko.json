@@ -1,0 +1,239 @@
+[
+  {
+    "id": 1767175854954,
+    "name": "info",
+    "createdAt": "2025-12-31T10:10:54.954Z",
+    "actions": [
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"function r(){if(St(n),n.value===mo){let o=null;throw new C(-950,o)}return n.value}_project-type_input-select_0_projectObject\"]/div[1]/div[1]/div[2]",
+        "delay": 0
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"function r(){if(St(n),n.value===mo){let o=null;throw new C(-950,o)}return n.value}_project-type_input-select_0_projectObject\"]/div[1]/div[1]/div[2]",
+        "delay": 105
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"function r(){if(St(n),n.value===mo){let o=null;throw new C(-950,o)}return n.value}_project-type_input-select_0_projectObject\"]/div[1]/div[1]/div[2]",
+        "delay": 700
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"aab504baf2fc-0\"]/ng-option[1]",
+        "delay": 488
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_loading_page\"]/div[1]/loan-project-characteristics[1]/div[2]/div[1]/lb-aon-select[2]",
+        "delay": 519
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"function r(){if(St(n),n.value===mo){let o=null;throw new C(-950,o)}return n.value}_project-nature_input-select_0_projectNature\"]/div[1]/div[1]/div[2]",
+        "delay": 531
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"a2722fa70677-0\"]/ng-option[1]/span[1]",
+        "delay": 539
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"radio-input_function r(){if(St(n),n.value===mo){let o=null;throw new C(-950,o)}return n.value}_subscriber-type_aon-choice_0_label\"]",
+        "delay": 481
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"radio-input_function r(){if(St(n),n.value===mo){let o=null;throw new C(-950,o)}return n.value}_subscriber-type_aon-choice_0\"]",
+        "delay": 11
+      },
+      {
+        "type": "input",
+        "xpath": "//*[@id=\"radio-input_function r(){if(St(n),n.value===mo){let o=null;throw new C(-950,o)}return n.value}_subscriber-type_aon-choice_0\"]",
+        "delay": 1,
+        "value": "on"
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"radio-input_function r(){if(St(n),n.value===mo){let o=null;throw new C(-950,o)}return n.value}_subscriber-type_aon-choice_0\"]",
+        "delay": 1
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0_label\"]",
+        "delay": 2821
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0\"]",
+        "delay": 10
+      },
+      {
+        "type": "input",
+        "xpath": "//*[@id=\"radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0\"]",
+        "delay": 0,
+        "value": "on"
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0\"]",
+        "delay": 2
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_first-name_input-text_input\"]",
+        "delay": 544
+      },
+      {
+        "type": "input",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_first-name_input-text_input\"]",
+        "delay": 406,
+        "value": "dqsd"
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_surname_input-text\"]",
+        "delay": 462
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_surname_input-text_input\"]",
+        "delay": 558
+      },
+      {
+        "type": "input",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_surname_input-text_input\"]",
+        "delay": 554,
+        "value": "qsdqsd"
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input\"]",
+        "delay": 493
+      },
+      {
+        "type": "input",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input\"]",
+        "delay": 587,
+        "value": "qsdqsd"
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"ngb-typeahead-0-0\"]/span[1]",
+        "delay": 738
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti\"]",
+        "delay": 594
+      },
+      {
+        "type": "input",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti\"]",
+        "delay": 2366,
+        "value": "065675678656"
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_birth-date_date-picker_input\"]",
+        "delay": 1206
+      },
+      {
+        "type": "input",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_birth-date_date-picker_input\"]",
+        "delay": 962,
+        "value": "31/12/1970"
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_div\"]/div[2]/div[2]",
+        "delay": 593
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_address_input-zipcode\"]",
+        "delay": 1197
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_address_input-zipcode_input\"]",
+        "delay": 562
+      },
+      {
+        "type": "input",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_address_input-zipcode_input\"]",
+        "delay": 2437,
+        "value": "69100"
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_loading_page\"]",
+        "delay": 1225
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_professional-status_input-select_0_professionalStatusRefId\"]/div[1]/div[1]/div[2]",
+        "delay": 1211
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_professional-status_input-select_CadreAssimileCadre\"]/span[1]",
+        "delay": 792
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_profession_input-select_0_jobRefId\"]/div[1]/div[1]/div[2]/input[1]",
+        "delay": 705
+      },
+      {
+        "type": "input",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_profession_input-select_0_jobRefId\"]/div[1]/div[1]/div[2]/input[1]",
+        "delay": 2130,
+        "value": "d"
+      },
+      {
+        "type": "input",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_profession_input-select_0_jobRefId\"]/div[1]/div[1]/div[1]/input[1]",
+        "delay": 328,
+        "value": "dev"
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_profession_input-select_DeveloppeurInformatique\"]/span[1]",
+        "delay": 662
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_is-smoking_no_input-checkbox_span\"]",
+        "delay": 2530
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_moving-foreign-country_no_input-checkbox_span\"]",
+        "delay": 589
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_long-distance-business-trip_no_input-checkbox_span\"]",
+        "delay": 625
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_heavy-handling_no_input-checkbox_span\"]",
+        "delay": 726
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_working-at-height_no_input-checkbox_span\"]",
+        "delay": 569
+      },
+      {
+        "type": "click",
+        "xpath": "//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_has-existing-loan_no_input-checkbox_span\"]",
+        "delay": 589
+      }
+    ]
+  }
+]

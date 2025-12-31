@@ -1,0 +1,554 @@
+{
+  "Name": "1 - Info projet - 1 infos assuré",
+  "CreationDate": "2025-12-24",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://rec5-www.april-on.fr/home",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=/html/body/aon-app-root/aon-main/aon-home/div/div/div/div/div[2]/div/aprilo-discoveries/div/div[4]/div/div[2]/div/button",
+      "Value": "",
+      "Targets": [
+        "xpath=/html/body/aon-app-root/aon-main/aon-home/div/div/div/div/div[2]/div/aprilo-discoveries/div/div[4]/div/div[2]/div/button",
+        "xpath=//div[4]/div/div[2]/div/button",
+        "css=body > aon-app-root > aon-main > aon-home > div > div > div.first-block.background-grey-six-xs.w-100.d-flex.ng-star-inserted > div > div.column2 > div > aprilo-discoveries > div > div:nth-child(4) > div > div.col-9.d-flex.flex-wrap.product-hover.padding-none-xs > div > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"product-detail-catalog\"]/div/div/div/div/div[2]/div/div[2]/button",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"product-detail-catalog\"]/div/div/div/div/div[2]/div/div[2]/button",
+        "xpath=//button",
+        "css=#product-detail-catalog > div > div > div > div > div.col-12.padding-none-xs.d-flex.flex-wrap.margin-top-sm-sm > div:nth-child(1) > div.d-flex.justify-content-end.margin-top-xs-sm.padding-bottom-xs-xs > button"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"market-place_borrower_client-needs_project-nature_project-nature_project-type_input-select_0_projectObject\"]/div/div/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"market-place_borrower_client-needs_project-nature_project-nature_project-type_input-select_0_projectObject\"]/div/div/div[2]",
+        "xpath=//ng-select/div/div/div[2]",
+        "css=#market-place_borrower_client-needs_project-nature_project-nature_project-type_input-select_0_projectObject > div.ng-select-container > div > div.ng-input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"a363e40fc941-0\"]/ng-option",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"a363e40fc941-0\"]/ng-option",
+        "xpath=//ng-option[@id='']",
+        "xpath=//ng-option",
+        "css=#a363e40fc941-0 > ng-option"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"market-place_borrower_client-needs_project-nature_project-nature_project-nature_input-select_0_projectNature\"]/div/div/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"market-place_borrower_client-needs_project-nature_project-nature_project-nature_input-select_0_projectNature\"]/div/div/div[2]",
+        "xpath=//lb-aon-select[2]/div/div/ng-select/div/div/div[2]",
+        "css=#market-place_borrower_client-needs_project-nature_project-nature_project-nature_input-select_0_projectNature > div.ng-select-container > div > div.ng-input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"a6a0735bc826-0\"]/ng-option/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"a6a0735bc826-0\"]/ng-option/span",
+        "xpath=//div[2]/div/ng-option/span",
+        "css=#a6a0735bc826-0 > ng-option > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=radio-input_market-place_borrower_client-needs_project-nature_project-nature_subscriber-type_aon-choice_0",
+      "Value": "on",
+      "Targets": [
+        "id=radio-input_market-place_borrower_client-needs_project-nature_project-nature_subscriber-type_aon-choice_0",
+        "xpath=//*[@id=\"radio-input_market-place_borrower_client-needs_project-nature_project-nature_subscriber-type_aon-choice_0\"]",
+        "xpath=//input[@id='radio-input_market-place_borrower_client-needs_project-nature_project-nature_subscriber-type_aon-choice_0']",
+        "xpath=//lb-aon-choice/div/div/input",
+        "css=#radio-input_market-place_borrower_client-needs_project-nature_project-nature_subscriber-type_aon-choice_0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=radio-input_market-place_borrower_client-needs_project-nature_project-nature_subscriber-type_aon-choice_0_label",
+      "Value": "",
+      "Targets": [
+        "id=radio-input_market-place_borrower_client-needs_project-nature_project-nature_subscriber-type_aon-choice_0_label",
+        "xpath=//*[@id=\"radio-input_market-place_borrower_client-needs_project-nature_project-nature_subscriber-type_aon-choice_0_label\"]",
+        "xpath=//label[@id='radio-input_market-place_borrower_client-needs_project-nature_project-nature_subscriber-type_aon-choice_0_label']",
+        "xpath=//div/div/label",
+        "css=#radio-input_market-place_borrower_client-needs_project-nature_project-nature_subscriber-type_aon-choice_0_label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=radio-input_market-place_borrower_client-needs_project-nature_project-nature_subscriber-type_aon-choice_0",
+      "Value": "",
+      "Targets": [
+        "id=radio-input_market-place_borrower_client-needs_project-nature_project-nature_subscriber-type_aon-choice_0",
+        "xpath=//*[@id=\"radio-input_market-place_borrower_client-needs_project-nature_project-nature_subscriber-type_aon-choice_0\"]",
+        "xpath=//input[@id='radio-input_market-place_borrower_client-needs_project-nature_project-nature_subscriber-type_aon-choice_0']",
+        "xpath=//lb-aon-choice/div/div/input",
+        "css=#radio-input_market-place_borrower_client-needs_project-nature_project-nature_subscriber-type_aon-choice_0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0",
+      "Value": "on",
+      "Targets": [
+        "id=radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0",
+        "xpath=//*[@id=\"radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0\"]",
+        "xpath=//input[@id='radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0']",
+        "xpath=//div[2]/lb-aon-choice/div/div/input",
+        "css=#radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0_label",
+      "Value": "",
+      "Targets": [
+        "id=radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0_label",
+        "xpath=//*[@id=\"radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0_label\"]",
+        "xpath=//label[@id='radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0_label']",
+        "xpath=//div[2]/lb-aon-choice/div/div/label",
+        "css=#radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0_label"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0",
+      "Value": "",
+      "Targets": [
+        "id=radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0",
+        "xpath=//*[@id=\"radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0\"]",
+        "xpath=//input[@id='radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0']",
+        "xpath=//div[2]/lb-aon-choice/div/div/input",
+        "css=#radio-input_market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_civility_aon-choice_0"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_first-name_input-text_input",
+      "Value": "",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_first-name_input-text_input",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_first-name_input-text_input\"]",
+        "xpath=//input[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_first-name_input-text_input']",
+        "xpath=//lb-aon-input-text/div/div/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_first-name_input-text_input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_first-name_input-text_input",
+      "Value": "mohamed",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_first-name_input-text_input",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_first-name_input-text_input\"]",
+        "xpath=//input[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_first-name_input-text_input']",
+        "xpath=//lb-aon-input-text/div/div/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_first-name_input-text_input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_surname_input-text_input",
+      "Value": "",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_surname_input-text_input",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_surname_input-text_input\"]",
+        "xpath=//input[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_surname_input-text_input']",
+        "xpath=//lb-aon-input-text[2]/div/div/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_surname_input-text_input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_surname_input-text_input",
+      "Value": "elmo",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_surname_input-text_input",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_surname_input-text_input\"]",
+        "xpath=//input[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_surname_input-text_input']",
+        "xpath=//lb-aon-input-text[2]/div/div/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_surname_input-text_input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input",
+      "Value": "",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input\"]",
+        "xpath=//input[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input']",
+        "xpath=//lb-aon-input-email/div/div/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input",
+      "Value": "med@gmailcom",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input\"]",
+        "xpath=//input[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input']",
+        "xpath=//lb-aon-input-email/div/div/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti",
+      "Value": "",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti\"]",
+        "xpath=//input[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti']",
+        "xpath=//lb-aon-input-tel-iti/div/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input",
+      "Value": "",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input\"]",
+        "xpath=//input[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input']",
+        "xpath=//lb-aon-input-email/div/div/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input",
+      "Value": "med@gmail.com",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input\"]",
+        "xpath=//input[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input']",
+        "xpath=//lb-aon-input-email/div/div/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_email_input-email_input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti",
+      "Value": "",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti\"]",
+        "xpath=//input[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti']",
+        "xpath=//lb-aon-input-tel-iti/div/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti",
+      "Value": "06767676",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti\"]",
+        "xpath=//input[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti']",
+        "xpath=//lb-aon-input-tel-iti/div/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_birth-date_date-picker_input",
+      "Value": "",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_birth-date_date-picker_input",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_birth-date_date-picker_input\"]",
+        "xpath=//input[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_birth-date_date-picker_input']",
+        "xpath=//loan-contributor/div/div[2]/lb-aon-date-picker/div/div/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_birth-date_date-picker_input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti",
+      "Value": "",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti\"]",
+        "xpath=//input[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti']",
+        "xpath=//lb-aon-input-tel-iti/div/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti",
+      "Value": "0676767687",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti\"]",
+        "xpath=//input[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti']",
+        "xpath=//lb-aon-input-tel-iti/div/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_mobile-phone_input-tel_tel-iti"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_birth-date_date-picker_input",
+      "Value": "",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_birth-date_date-picker_input",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_birth-date_date-picker_input\"]",
+        "xpath=//input[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_birth-date_date-picker_input']",
+        "xpath=//loan-contributor/div/div[2]/lb-aon-date-picker/div/div/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_birth-date_date-picker_input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_birth-date_date-picker_input",
+      "Value": "31/12/1975",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_birth-date_date-picker_input",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_birth-date_date-picker_input\"]",
+        "xpath=//input[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_birth-date_date-picker_input']",
+        "xpath=//loan-contributor/div/div[2]/lb-aon-date-picker/div/div/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_birth-date_date-picker_input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_address_input-zipcode_input",
+      "Value": "",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_address_input-zipcode_input",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_address_input-zipcode_input\"]",
+        "xpath=//input[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_address_input-zipcode_input']",
+        "xpath=//lb-aon-input-zipcode/div/div/div/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_address_input-zipcode_input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_address_input-zipcode_input",
+      "Value": "69100 - VILLEURBANNE",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_address_input-zipcode_input",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_address_input-zipcode_input\"]",
+        "xpath=//input[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_address_input-zipcode_input']",
+        "xpath=//lb-aon-input-zipcode/div/div/div/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_address_input-zipcode_input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_div\"]/div[2]/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_div\"]/div[2]/div[2]",
+        "xpath=//loan-contributors-container/div/div[2]/div[2]",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_div > div.d-flex.form-array > div.add-container.d-flex.flex-column.align-items-center.w-50.p-3.ng-star-inserted"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_professional-status_input-select_0_professionalStatusRefId\"]/div/div/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_professional-status_input-select_0_professionalStatusRefId\"]/div/div/div[2]",
+        "xpath=//div[2]/lb-aon-select/div/div/ng-select/div/div/div[2]",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_professional-status_input-select_0_professionalStatusRefId > div.ng-select-container > div > div.ng-input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_profession_input-select_0_jobRefId\"]/div/div/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_profession_input-select_0_jobRefId\"]/div/div/div[2]",
+        "xpath=//div[2]/lb-aon-select[2]/div/div/ng-select/div/div/div[2]",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_profession_input-select_0_jobRefId > div.ng-select-container > div > div.ng-input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_profession_input-select_0_jobRefId\"]/div/div/div[2]/input",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_profession_input-select_0_jobRefId\"]/div/div/div[2]/input",
+        "xpath=//div[2]/lb-aon-select[2]/div/div/ng-select/div/div/div[2]/input",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_profession_input-select_0_jobRefId > div.ng-select-container.ng-has-value > div > div.ng-input > input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//label/span[2]",
+      "Value": "",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_is-smoking_no_input-checkbox_span",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_is-smoking_no_input-checkbox_span\"]",
+        "xpath=//label/span[2]",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_is-smoking_no_input-checkbox_span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_moving-foreign-country_no_input-checkbox_span",
+      "Value": "",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_moving-foreign-country_no_input-checkbox_span",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_moving-foreign-country_no_input-checkbox_span\"]",
+        "xpath=//span[@id='market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_moving-foreign-country_no_input-checkbox_span']",
+        "xpath=//div[3]/lb-aon-checkbox/div/label/span",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_moving-foreign-country_no_input-checkbox_span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//div[4]/lb-aon-checkbox/div/label/span[2]",
+      "Value": "",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_long-distance-business-trip_no_input-checkbox_span",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_long-distance-business-trip_no_input-checkbox_span\"]",
+        "xpath=//div[4]/lb-aon-checkbox/div/label/span[2]",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_long-distance-business-trip_no_input-checkbox_span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//div[5]/lb-aon-checkbox/div/label/span[2]",
+      "Value": "",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_heavy-handling_no_input-checkbox_span",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_heavy-handling_no_input-checkbox_span\"]",
+        "xpath=//div[5]/lb-aon-checkbox/div/label/span[2]",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_heavy-handling_no_input-checkbox_span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//div[6]/lb-aon-checkbox/div/label/span[2]",
+      "Value": "",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_working-at-height_no_input-checkbox_span",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_working-at-height_no_input-checkbox_span\"]",
+        "xpath=//div[6]/lb-aon-checkbox/div/label/span[2]",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_working-at-height_no_input-checkbox_span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//div[7]/lb-aon-checkbox/div/label/span[2]",
+      "Value": "",
+      "Targets": [
+        "id=market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_has-existing-loan_no_input-checkbox_span",
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_has-existing-loan_no_input-checkbox_span\"]",
+        "xpath=//div[7]/lb-aon-checkbox/div/label/span[2]",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_has-existing-loan_no_input-checkbox_span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_professional-status_input-select_0_professionalStatusRefId\"]/div/div/div[2]",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_professional-status_input-select_0_professionalStatusRefId\"]/div/div/div[2]",
+        "xpath=//div[2]/lb-aon-select/div/div/ng-select/div/div/div[2]",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_professional-status_input-select_0_professionalStatusRefId > div.ng-select-container > div > div.ng-input"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_professional-status_input-select_CadreAssimileCadre\"]/span",
+      "Value": "",
+      "Targets": [
+        "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_professional-status_input-select_CadreAssimileCadre\"]/span",
+        "xpath=//div[2]/div/ng-option/span",
+        "css=#market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_professional-status_input-select_CadreAssimileCadre > span"
+      ],
+      "Description": ""
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_profession_input-select_0_jobRefId\"]/div/div/div[2]/input",
+      "Value": "",
+      "Description": "Cliquer sur le champ de profession"
+    },
+    {
+      "Command": "type",
+      "Target": "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_profession_input-select_0_jobRefId\"]/div/div/div[2]/input",
+      "Value": "Développeur",
+      "Description": "Taper les premières lettres pour déclencher l'autocomplétion"
+    },
+    {
+      "Command": "waitForElementVisible",
+      "Target": "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_profession_input-select_DeveloppeurInformatique\"]/span",
+      "Value": "5000",
+      "Description": "Attendre que l'option apparaisse"
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//*[@id=\"market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_profession_input-select_DeveloppeurInformatique\"]/span",
+      "Value": "",
+      "Description": "Cliquer sur l'option Développeur Informatique"
+    }
+  ]
+}

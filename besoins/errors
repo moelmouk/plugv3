@@ -1,0 +1,9 @@
+Erreurs
+Element not found: //*[@id="a4e5a5119202-0"]/ng-option[1]
+Element not found: //*[@id="a20ba5939842-0"]/ng-option[1]/span[1]
+Element not found: //*[@id="radio-input_function r(){if(St(n),n.value===mo){let o=null;throw new C(-950,o)}return n.value}_subscriber-type_aon-choice_0_label"]
+Element not found: //*[@id="radio-input_function r(){if(St(n),n.value===mo){let o=null;throw new C(-950,o)}return n.value}_subscriber-type_aon-choice_0"]
+
+Erreurs
+Element not found: //*[@id="market-place_borrower_client-needs_insureds_insureds-container_insured_0_insured-person_professional-status_input-select_CadreAssimileCadre"]/span[1]
+
